@@ -1,0 +1,38 @@
+# Virtual Environment
+tf_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# TensorFlow / ML
+*.h5
+*.ckpt
+*.pb
+logs/
+tensorboard/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# PyCharm
+.idea/
+
